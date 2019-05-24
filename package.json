@@ -1,0 +1,23 @@
+{
+  "name": "friends",
+  "version": "1.0.0",
+  "description": "Web app for wg and friend group planning",
+  "main": "main.js",
+  "dependencies": {
+    "ol": "^5.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabianVolkers/where-are-my-friends.git"
+  },
+  "author": "Fabian Volkers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabianVolkers/where-are-my-friends/issues"
+  },
+  "homepage": "https://github.com/FabianVolkers/where-are-my-friends#readme"
+}
